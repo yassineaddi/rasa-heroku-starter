@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "gen_dataset": "npx chatito chatito/ --format rasa --outputPath data/"
+  },
+  "dependencies": {
+    "chatito": "^2.3.5"
+  }
+}
