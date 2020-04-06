@@ -3,8 +3,6 @@ tests/
 node_modules/
 .venv/
 
-# package.json
 package-lock.json
 npm-debug.log
-# requirements.txt
 data/*.json
